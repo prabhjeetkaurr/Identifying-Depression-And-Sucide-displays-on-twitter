@@ -1,2 +1,2 @@
 # Identifying-Depression-And-Sucide-displays-on-twitter
-This study examines the prevalence of depression and sucide on twitter using NLP and machine learning techniques.
+This study examines the prevalence of depression and sucide on twitter using NLP and machine learning techniques. This cross sectional study took place from June 2013 to June 2014 and data collection specifically took place over one week in July 2013. Public data was collected for this study from the social media website, Twitter. We collected data for this study using software called DiscoverText. DiscoverText is an Application Programing Interface software, commonly known as an API. We selected for English language tweets and used the search terms “depressed” and “depression” to identify our content.
